@@ -1,0 +1,13 @@
+path：项目路径   
+goroot：安装路径
+
+
+iris 框架 安装
+$ go get -u github.com/kataras/iris
+
+
+安装后项目结构iris引用目录：
+->src-github.com->kataras->iris
+
+引用
+import "github.com/kataras/iris"
